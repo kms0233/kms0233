@@ -11,4 +11,5 @@
 - UMC 3rd Android (2022.9 ~ 2023.2)
 - UMC 4th Android (2023.3 ~ 2023.8)
 - Like Lion 11th Frontend (2023.3 ~ 2023.8)
-- SOPT 34th iOS (2024.2 ~)
+- SOPT 34th iOS (2024.2 ~ 8)
+- SOPT 35th iOS (2024.9 ~ )
