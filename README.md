@@ -4,8 +4,6 @@
 
 ![05](https://github.com/kms0233/kms0233/assets/105372558/513779b8-bb55-4220-98f7-274351660af5)
 
-🏫 Catholic Univ - Media Technology Contentes
-
 ## Activity
 
 - UMC 3rd Android (2022.9 ~ 2023.2)
@@ -13,3 +11,5 @@
 - Like Lion 11th Frontend (2023.3 ~ 2023.8)
 - SOPT 34th iOS (2024.2 ~ 8)
 - SOPT 35th iOS (2024.9 ~ )
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms0233&show_icons=true&theme=radical)
