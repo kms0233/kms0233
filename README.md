@@ -4,6 +4,14 @@
 
 ![05](https://github.com/kms0233/kms0233/assets/105372558/513779b8-bb55-4220-98f7-274351660af5)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kms0233&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kms0233"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## Activity
 
 - UMC 3rd Android (2022.9 ~ 2023.2)
